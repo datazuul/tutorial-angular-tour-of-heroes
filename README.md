@@ -1,4 +1,6 @@
-# TutorialAngularTourOfHeroes
+# Tutorial: Angular - Tour of Heroes
+
+A personal recapitulation of the official Angular tutorial at <https://angular.io/tutorial/tour-of-heroes>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
